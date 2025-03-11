@@ -1,4 +1,4 @@
-# Installing Windows Server2022 Virtual OS
+# Installing Windows Server 2022 Virtual OS
 
 - <b> Step 1 Finding the Windows Server ISO </b>
 
