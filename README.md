@@ -35,7 +35,8 @@
 
   - You are now ready to start up the Windows 2022 Server and configure the start up settings.
  
+    <img src= "https://sigmawire.net/i/03/IHpu4K.png" height="40%" width="40%" />
+ 
 - <b> Step 3 Configuring the start up settings </b>
 
-  <img src= "https://sigmawire.net/i/03/IHpu4K.png" height="40%" width="40%" />
   
