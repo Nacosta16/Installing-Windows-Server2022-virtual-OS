@@ -39,4 +39,17 @@
  
 - <b> Step 3 Configuring the start up settings </b>
 
+   - Go through the startup until you get to "Micosoft Server Operating System Start Up" and select standard evaluation desktop edition so you can get the full windows graphical environment (If you just need the command lines because you are working specifically on something such as security concepts, then just the standard without the desktop will be fine)
+
+      <img src= "https://sigmawire.net/i/03/DS4mzu.png" height="40%" width="40%" />
+     
+   - Proceed until you see the options to either upgrade or custom install. Select custom.
+
+     <img src= "https://sigmawire.net/i/03/OVsDKC.png" height="40%" width="40%" />
+
+   - Select drive 0, allocating 50 Gb, then continue and allow it to finish installing
+
+      <img src= "https://sigmawire.net/i/03/Nw1WkG.png" height="40%" width="40%" />
+
+
   
