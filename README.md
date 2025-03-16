@@ -51,7 +51,7 @@
 
       <img src= "https://sigmawire.net/i/03/Nw1WkG.png" height="40%" width="40%" />
 
-- <b> Step 4 settong up Windows server 2022 </b>
+- <b> Step 4 setting up Windows server 2022 IP </b>
 
    - After turning on the machine and making your login informaition, make sure you select no to opening it to a public network and close out the dialog box behind it
  
