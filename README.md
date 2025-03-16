@@ -51,5 +51,29 @@
 
       <img src= "https://sigmawire.net/i/03/Nw1WkG.png" height="40%" width="40%" />
 
+- <b> Step 4 settong up Windows server 2022 </b>
+
+   - After turning on the machine and making your login informaition, make sure you select no to opening it to a public network and close out the dialog box behind it
+ 
+      <img src= "https://sigmawire.net/i/03/Nw1WkG.png" height="40%" width="40%" />
+
+   - Now you will configure the IP. A general practice is to always give a server a static IP rather than a public one due to provide reliability, accessibility, and security for critical network services
+   - Close the server manager and right click the icon on the bottom right to configure network and internet settings
+
+  <img src= "https://sigmawire.net/i/03/tfdrxO.png" height="40%" width="40%" />
+
+  - Select change adapter option
+
+  <img src= "https://sigmawire.net/i/03/ymBhT1.png" height="40%" width="40%" />
+
+  - You then right click the Ethernet option, select properties 
+
+  <img src= "https://sigmawire.net/i/03/ySG0JZ.png" height="40%" width="40%" />
+
+  - Now you can select Ipv4 select properties give it a staic Ip and input the following private IP into the static ipv4 and DNS
+ 
+  <img src= "https://sigmawire.net/i/03/uCz8hv.png" height="40%" width="40%" />
+
+  <img src= "https://sigmawire.net/i/03/gvfVOl.png" height="40%" width="40%" />
 
   
